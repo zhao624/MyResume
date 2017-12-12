@@ -14,7 +14,7 @@
     ​工作经验：一年
 
 ***
-## ***:bookmark:职业技能 ***
+## *** :bookmark:职业技能 ***
 > 后端
 - 熟练使用mybatis,hibnate ORM开源框架
 - 熟练使用springMVC,Stuts2 MVC开源框架
