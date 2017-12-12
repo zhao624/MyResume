@@ -14,7 +14,7 @@
     ​工作经验：一年
 
 ***
-## 职业技能 
+## ***:bookmark:职业技能 ***
 > 后端
 - 熟练使用mybatis,hibnate ORM开源框架
 - 熟练使用springMVC,Stuts2 MVC开源框架
@@ -27,7 +27,6 @@
 > 数据库
 - 掌握基本sql语法,以及高级查询...
 - 熟悉mysql，sqlserver，oracle等数据库使用
-
 > 开发环境
 - 熟悉linux/windows运维
 - 熟悉使用eclipse/myeclipse/Idea
