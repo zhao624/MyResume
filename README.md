@@ -24,6 +24,13 @@
 - 熟练javascript语法
 - 熟练使用jQuery库
 - 基本掌握vue.js前端框架
+>数据库
+-掌握基本sql语法
+-熟悉mysql，sqlserver，oracle等数据库使用
+>开发环境
+-熟悉linux/windows运维
+-熟悉使用eclipse/myeclipse/Idea
+-熟悉tomcat基本使用与项目发布
 
 ***
 ## ***:bookmark: 工作经历***
