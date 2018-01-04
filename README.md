@@ -49,19 +49,24 @@
 > 我负责编写住房管理的相关功能，主要功能有房间查询，房间入住，房间信息修改，快速搜索等，
 > 快速搜索使用Ajax异步查询,直接将数据展示在页面，
 > 在项目开发后期，
-> 
 > ```
 ## _**职业技能**_
+
+
 > 后端
 * 熟练使用mybatis,hibnate ORM开源框架
 * 熟练使用springMVC,Stuts2 MVC开源框架
 * 了解spring boot项目开发
 * 熟练使用maven构建管理项目
+
+
 > 前端
 * 熟悉html5,css3语法
 * 熟练javascript语法
 * 熟练使用jQuery库
 * 基本掌握vue.js前端框架
+
+
 > 数据库
 * 掌握基本sql语法,以及高级查询...
 * 熟悉mysql，sqlserver，oracle等数据库使用
